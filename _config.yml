@@ -1,3 +1,7 @@
 theme: minima
 title: Interaction in the Public
 description: A Mensch und Computer 2021 Workshop
+header_pages:
+  - index.md
+  - organizers.md
+  - participate.md
