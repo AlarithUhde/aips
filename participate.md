@@ -1,3 +1,9 @@
+---
+layout: page
+title: Participate
+---
+
+
 Include:
 - brief description of goals
 - How to contribute?

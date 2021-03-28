@@ -1,8 +1,14 @@
+---
+layout: page
+title: Organizers
+---
+
+
 Include:
 - brief introductory text
 - Alarith
-- Pia
 - Stefan
+- Pia
 - Marion
 - Sarah
 - Marc
