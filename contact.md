@@ -8,11 +8,11 @@ If you have any further questions about the workshop, feel free to send us
 an email.
 
 Mail: [alarith.uhde@uni-siegen.de](mailto:alarith.uhde@uni-siegen.de)
-<p>Phone: +49 271 740-5269</p>
 
-<p>Universität Siegen, Fakultät III</br>
-<p>Ubiquitous Design</p>
-<p>Prof. Dr. Marc Hassenzahl</p>
-<p>Kohlbettstrasse 15</p>
-<p>57072 Siegen</p>
-<p>Deutschland</p>
+<p>Phone: +49 271 740-5269<br>
+Universität Siegen, Fakultät III<br>
+Ubiquitous Design<br>
+Prof. Dr. Marc Hassenzahl<br>
+Kohlbettstrasse 15<br>
+57072 Siegen<br>
+Deutschland</p>
