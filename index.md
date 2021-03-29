@@ -23,12 +23,12 @@ we will explore, mix, and contrast together (see [details](/aips/participate.htm
 Please also have a look at our original [Call for Participation](/assets/cfp.pdf).
 
 The workshop will take place during the Mensch und Computer conference (some
-time between 5-8 September 2021) in Ingolstadt, Germany (but we are also
-planning with an online backup). If the outcomes are substantial enough, we
+time between 5-8 September 2021) in Ingolstadt, Germany but we are also
+planning with an online backup. If the outcomes are substantial enough, we
 plan to publish them in a shared format together with interested participants.
 
-This workshop is part of the project "Aesthetics of Performative Interaction
-for Pervasive Computing Environments in Public Spaces", funded by the Deutsche
-Forschungsgemeinschaft (DFG, German Research Foundation) – (Grant No.
-425827565) and is part of Priority Program SPP2199 Scalable Interaction
-Paradigms for Pervasive Computing Environments.
+This workshop is partially funded through the project "Aesthetics of
+Performative Interaction for Pervasive Computing Environments in Public
+Spaces", by the Deutsche Forschungsgemeinschaft (DFG, German Research
+Foundation) – (Grant No. 425827565) which is part of Priority Program SPP2199
+Scalable Interaction Paradigms for Pervasive Computing Environments.
