@@ -19,7 +19,7 @@ largely untouched questions of positive technology interaction in social spaces
 beyond social acceptability, and to work out how this can improve the design
 process. Instead of position papers, we ask our participants to contribute
 a technology and context profile (from past/present work or conceptual), which
-we will explore, mix, and contrast together (see [details](/participate.html)).
+we will explore, mix, and contrast together (see [details](/aips/participate.html)).
 Please also have a look at our original [Call for Participation](/assets/cfp.pdf).
 
 The workshop will take place during the Mensch und Computer conference (some
