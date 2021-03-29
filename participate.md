@@ -3,7 +3,8 @@ layout: page
 title: Participate
 ---
 
-
+Coming soon
+<!--
 Include:
 - brief description of goals
 - How to contribute?
@@ -11,3 +12,4 @@ Include:
 - Time Schedule
 - Contact for uploading everything
 - link to CfP
+-->
