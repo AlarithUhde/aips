@@ -20,7 +20,7 @@ beyond social acceptability, and to work out how this can improve the design
 process. Instead of position papers, we ask our participants to contribute
 a technology and context profile (from past/present work or conceptual), which
 we will explore, mix, and contrast together (see [details](/aips/participate.html)).
-Please also have a look at our original [Call for Participation](/assets/cfp.pdf).
+Please also have a look at our original [proposal](/assets/proposal.pdf).
 
 The workshop will take place during the Mensch und Computer conference (some
 time between 5-8 September 2021) in Ingolstadt, Germany but we are also
