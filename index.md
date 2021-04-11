@@ -13,19 +13,33 @@ title: Home
 ![Interaction in the Public](/assets/AIPS.webp)
 
 
-Welcome to our Mensch und Computer workshop on Interaction in Public Spaces:
-Aesthetics, Social Acceptability, and Social Context. We want to explore the
-largely untouched questions of positive technology interaction in social spaces
-beyond social acceptability, and to work out how this can improve the design
-process. Instead of position papers, we ask our participants to contribute
-a technology and context profile (from past/present work or conceptual), which
-we will explore, mix, and contrast together (see [details](/aips/participate.html)).
-Please also have a look at our original [proposal](/assets/proposal.pdf).
+Welcome to our <a target="_blank" rel="noopener noreferrer" href="https://muc2021.mensch-und-computer.de">Mensch und Computer</a> workshop on Interaction in Public Spaces:
+Aesthetics, Social Acceptability, and Social Context. We want to bring together
+HCI researchers and UX practitioners to explore some of the largely untouched
+questions of positive technology interaction in social spaces. These include:
 
-The workshop will take place during the Mensch und Computer conference (some
-time between 5-8 September 2021) in Ingolstadt, Germany but we are also
-planning with an online backup. If the outcomes are substantial enough, we
-plan to publish them in a shared format together with interested participants.
+* How do social contexts and social acceptability shape user experiences?
+* What potentials for positive experiences can we find in the social world?
+* How does interaction design impact social experiences?
+* How can we include social context in design processes to create better
+  things?
+
+We invite both experts and novices to join us and learn together (see [how to
+participate](/aips/participate.html)). If you already have some experience
+designing or researching technology for social contexts, we want to hear what
+you have to say! As a novice, you can bring your questions or use cases, or
+just get inspired by others' projects. In addition, we share our own work and
+currently reach out to an external **keynote** speaker (to be announced).
+
+Will it happen online? Will we meet in Ingolstadt? Well, we don't know yet, but
+we prepare for both scenarios. Here are some information we do already know:
+
+Application Deadline: 21.05.2021
+
+Dates of the Conference: 05.-08.09.2021
+
+We are looking forward to your contributions! If in doubt, don't hesitate to
+[reach out to us](/aips/contact.html).
 
 This workshop is partially funded through the project "Aesthetics of
 Performative Interaction for Pervasive Computing Environments in Public
