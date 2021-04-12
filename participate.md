@@ -41,8 +41,14 @@ These are our suggestions - if you have an idea that you think fits with the
 general theme of the workshop, submit it or [reach out to
 us](/aips/contact.html).
 
-As a contributor, your contribution will be included in the proceedings of
+As a contributor, your presentation will be included in the proceedings of
 Mensch und Computer as part of the workshop paper.
+
+#### How to apply
+
+Please fill out the form and include a (textual) summary of your presentation
+(1-2 pages). You can also include an optional case sheet for the interactive
+session.
 
 ### Participants
 
@@ -55,3 +61,7 @@ exchange ideas and experiences with other participants, contributors, and the
 organizers. You will also have an opportunity to work on specific questions or
 problems that relate to your work or interests.
 
+#### How to apply
+
+Please fill out the form. If you have a specific case that you would like to
+talk about in the interactive session, you can include an optional case sheet.
