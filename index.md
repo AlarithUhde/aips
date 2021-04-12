@@ -13,30 +13,33 @@ title: Home
 ![Interaction in the Public](/assets/AIPS.webp)
 
 
-Welcome to our <a target="_blank" rel="noopener noreferrer" href="https://muc2021.mensch-und-computer.de">Mensch und Computer</a> workshop on Interaction in Public Spaces:
-Aesthetics, Social Acceptability, and Social Context. We want to bring together
-HCI researchers and UX practitioners to explore some of the largely untouched
-questions of positive technology interaction in social spaces. These include:
+Welcome to our <a target="_blank" rel="noopener noreferrer"
+href="https://muc2021.mensch-und-computer.de">Mensch und Computer</a> workshop
+on Interaction in Public Spaces: Aesthetics, Social Acceptability, and Social
+Context. We want to bring together HCI researchers and UX practitioners to
+discuss the role of "the social" in current design approaches, and to develop
+new directions for the future. The topics we would like to talk about include:
 
-* How do social contexts and social acceptability shape user experiences?
+* How does interaction design shape social experiences?
+* More generally, how do social contexts shape user experiences?
 * What potentials for positive experiences can we find in the social world?
-* How does interaction design impact social experiences?
 * How can we include social context in design processes to create better
   things?
 
 We invite both experts and novices to join us and learn together (see [how to
 participate](/aips/participate.html)). If you already have some experience
-designing or researching technology for social contexts, we want to hear what
-you have to say! As a novice, you can bring your questions or use cases, or
-just get inspired by others' projects. In addition, we share our own work and
-currently reach out to an external **keynote** speaker (to be announced).
+designing or researching technology for social contexts, we would like to hear
+what you have to share. As a novice, you can bring your questions or use cases,
+or just get inspired by others' projects. In addition, we share some of our own
+work and thoughts. To round off the workshop, we are currently reach out to an
+external **keynote** speaker (to be announced).
 
-Will it happen online? Will we meet in Ingolstadt? Well, we don't know yet, but
-we prepare for both scenarios. Here are some information we do already know:
+We are preparing for both an online and an in person scenario of the workshop
+and we will keep you informed as soon as we know more. Here are some key
+information we do already know:
 
-Application Deadline: 21.05.2021
-
-Dates of the Conference: 05.-08.09.2021
+<p>Application Deadline: 21.05.2021<br>
+Dates of the Conference: 05.-08.09.2021</p>
 
 We are looking forward to your contributions! If in doubt, don't hesitate to
 [reach out to us](/aips/contact.html).
