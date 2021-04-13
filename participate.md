@@ -14,7 +14,7 @@ title: Participate
 
 We offer two different ways to participate: As a contributor or as a regular
 participant. You might also be interested in our original [workshop
-proposal](/assets/proposal.pdf) to learn more about the workshop motivation.
+proposal](/aips/assets/proposal.pdf) to learn more about the workshop motivation.
 
 <p>Application Deadline: 21.05.2021<br>
 Feedback: early/mid June<br>
