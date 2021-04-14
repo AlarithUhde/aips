@@ -4,7 +4,7 @@ title: Organizers
 ---
 
 The organization team brings together expertise in experience design,
-aesthetics of interaction, and social acceptability research.
+aesthetics of interaction, psychology, and social acceptability research.
 
 **Alarith Uhde** is a doctoral student in the Ubiquitous Design / Experience
 & Interaction group of Prof. Marc Hassenzahl at Siegen University. His research
