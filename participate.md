@@ -23,7 +23,7 @@ Deadline for reviewed abstracts (contributors only): 02.07.2021<br>
 Conference: 05.-08.09.2021</p>
 
 Please fill out the [application form](/aips/assets/ApplicationForm.docx) and
-the case sheet and send them by email to
+the [case sheet](/aips/assets/CaseSheet.pdf) and send them by email to
 [alarith.uhde@uni-siegen.de](mailto:alarith.uhde@uni-siegen.de).
 
 ### Contributors
@@ -54,8 +54,9 @@ proceedings (e.g., in case you work in the private sector and need to comply wit
 #### How to apply
 
 Please fill out the [form](/aips/assets/ApplicationForm.docx) and include
-a (textual) summary of your presentation (1-2 pages). You can also include an
-optional case sheet for the interactive session.
+a (textual) summary of your presentation (1-2 pages). In addition, we ask you
+to include a [case sheet](/aips/assets/CaseSheet.pdf) for the interactive
+session.
 
 ### Participants
 
@@ -70,6 +71,5 @@ problems that relate to your work or interests.
 
 #### How to apply
 
-Please fill out the [form](/aips/assets/ApplicationForm.docx). If you have
-a specific case that you would like to talk about in the interactive session,
-you can include an optional case sheet.
+Please fill out the [form](/aips/assets/ApplicationForm.docx) and the [case
+sheet](/aips/CaseSheet.pdf).
