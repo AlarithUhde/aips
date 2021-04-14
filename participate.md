@@ -72,4 +72,5 @@ problems that relate to your work or interests.
 #### How to apply
 
 Please fill out the [form](/aips/assets/ApplicationForm.docx) and the [case
-sheet](/aips/CaseSheet.pdf).
+sheet](/aips/assets/CaseSheet.pdf) with a description of a technology you
+frequently use in social spaces, or one that you are working on.
