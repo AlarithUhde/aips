@@ -14,12 +14,15 @@ title: Participate
 
 We offer two different ways to participate: As a contributor or as a regular
 participant. You might also be interested in our original [workshop
-proposal](/aips/assets/proposal.pdf) to learn more about the workshop motivation.
+proposal](/aips/assets/proposal.pdf) to learn more about the workshop
+motivation.
 
 <p>Application Deadline: 21.05.2021<br>
 Feedback: early/mid June<br>
 Deadline for Abstracts (contributors only): 02.07.2021<br>
 Conference: 05.-08.09.2021</p>
+
+[Application Form](/aips/assets/ApplicationForm.docx)
 
 ### Contributors
 
@@ -48,9 +51,9 @@ proceedings (e.g., in case you work in the private sector and need to comply wit
 
 #### How to apply
 
-Please fill out the form and include a (textual) summary of your presentation
-(1-2 pages). You can also include an optional case sheet for the interactive
-session.
+Please fill out the [form](/aips/assets/ApplicationForm.docx) and include
+a (textual) summary of your presentation (1-2 pages). You can also include an
+optional case sheet for the interactive session.
 
 ### Participants
 
@@ -65,5 +68,6 @@ problems that relate to your work or interests.
 
 #### How to apply
 
-Please fill out the form. If you have a specific case that you would like to
-talk about in the interactive session, you can include an optional case sheet.
+Please fill out the [form](/aips/assets/ApplicationForm.docx). If you have
+a specific case that you would like to talk about in the interactive session,
+you can include an optional case sheet.
