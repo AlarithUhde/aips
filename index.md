@@ -31,12 +31,12 @@ participate](/aips/participate.html)). If you already have some experience
 designing or researching technology for social contexts, we would like to hear
 what you have to share. As a novice, you can bring your questions or use cases,
 or just get inspired by others' projects. In addition, we share some of our own
-work and thoughts. To round off the workshop, we are currently reach out to an
-external **keynote** speaker (to be announced).
+work and thoughts. To round off the workshop, we are currently reaching out to
+an external **keynote** speaker (to be announced).
 
 We are preparing for both an online and an in person scenario of the workshop
 and we will keep you informed as soon as we know more. Here are some key
-information we do already know:
+information we already know:
 
 <p>Application Deadline: 21.05.2021<br>
 Dates of the Conference: 05.-08.09.2021</p>
