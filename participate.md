@@ -22,7 +22,9 @@ Feedback: early/mid June<br>
 Deadline for Abstracts (contributors only): 02.07.2021<br>
 Conference: 05.-08.09.2021</p>
 
-[Application Form](/aips/assets/ApplicationForm.docx)
+Please fill out the [application form](/aips/assets/ApplicationForm.docx) and
+the case sheet and send them by email to
+[alarith.uhde@uni-siegen.de](mailto:alarith.uhde@uni-siegen.de).
 
 ### Contributors
 
