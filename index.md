@@ -15,7 +15,7 @@ title: Home
 
 Welcome to our <a target="_blank" rel="noopener noreferrer"
 href="https://muc2021.mensch-und-computer.de">Mensch und Computer</a> workshop
-on Interaction in Public Spaces: Aesthetics, Social Acceptability, and Social
+on Interaction in the Public: Aesthetics, Social Acceptability, and Social
 Context. We want to bring together HCI researchers and UX practitioners to
 discuss the role of "the social" in current design approaches, and to develop
 new directions for the future. The topics we would like to talk about include:
@@ -39,7 +39,7 @@ and we will keep you informed as soon as we know more. Here are some key
 information we already know:
 
 <p>Application Deadline: 21.05.2021<br>
-Dates of the Conference: 05.-08.09.2021</p>
+Dates of the Conference: 05.-08.09.2021 (the exact date of the workshop is not set yet)</p>
 
 We are looking forward to your contributions! If in doubt, don't hesitate to
 [reach out to us](/aips/contact.html).
