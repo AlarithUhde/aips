@@ -23,7 +23,7 @@ Deadline for reviewed abstracts (contributors only): 02.07.2021<br>
 Conference: 05.-08.09.2021</p>
 
 Please fill out the [application form](/aips/assets/ApplicationForm.docx) and
-the [case sheet](/aips/assets/CaseSheet.pdf) and send them by email to
+the [case sheet](/aips/assets/CaseSheet.docx) and send them by email to
 [alarith.uhde@uni-siegen.de](mailto:alarith.uhde@uni-siegen.de).
 
 ### Contributors
@@ -55,7 +55,7 @@ proceedings (e.g., in case you work in the private sector and need to comply wit
 
 Please fill out the [form](/aips/assets/ApplicationForm.docx) and include
 a (textual) summary of your presentation (1-2 pages). In addition, we ask you
-to include a [case sheet](/aips/assets/CaseSheet.pdf) for the interactive
+to include a [case sheet](/aips/assets/CaseSheet.docx) for the interactive
 session.
 
 ### Participants
@@ -72,5 +72,5 @@ problems that relate to your work or interests.
 #### How to apply
 
 Please fill out the [form](/aips/assets/ApplicationForm.docx) and the [case
-sheet](/aips/assets/CaseSheet.pdf) with a description of a technology you
+sheet](/aips/assets/CaseSheet.docx) with a description of a technology you
 frequently use in social spaces, or one that you are working on.
