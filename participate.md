@@ -20,7 +20,7 @@ motivation.
 <p>Application Deadline: 21.05.2021<br>
 Feedback: early/mid June<br>
 Deadline for reviewed abstracts (contributors only): 02.07.2021<br>
-Conference: 05.-08.09.2021</p>
+Conference: 05.-08.09.2021 (exact day of the workshop is not set yet)</p>
 
 Please fill out the [application form](/aips/assets/ApplicationForm.docx) and
 the [case sheet](/aips/assets/CaseSheet.docx) and send them by email to

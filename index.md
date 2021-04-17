@@ -39,7 +39,7 @@ and we will keep you informed as soon as we know more. Here are some key
 information we already know:
 
 <p>Application Deadline: 21.05.2021<br>
-Dates of the Conference: 05.-08.09.2021 (the exact date of the workshop is not set yet)</p>
+Dates of the Conference: 05.-08.09.2021 (exact date of the workshop is not set yet)</p>
 
 We are looking forward to your contributions! If in doubt, don't hesitate to
 [reach out to us](/aips/contact.html).
