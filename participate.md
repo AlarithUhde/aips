@@ -46,11 +46,6 @@ These are our suggestions - if you have an idea that you think fits with the
 general theme of the workshop, submit it or [reach out to
 us](/aips/contact.html).
 
-As a contributor, a summary of your presentation will be included in the
-proceedings of Mensch und Computer as part of the workshop paper. Please let us
-know if some of the information from your presentation should not appear in the
-proceedings (e.g., in case you work in the private sector and need to comply with limited disclosure agreements).
-
 #### How to apply
 
 Please fill out the [form](/aips/assets/ApplicationForm.docx) and include
