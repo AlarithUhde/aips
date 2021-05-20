@@ -37,7 +37,7 @@ We are preparing for both an online and an in person scenario of the workshop
 and we will keep you informed as soon as we know more. Here are some key
 information we already know:
 
-<p><b>Application Deadline: 21.05.2021<br>
+<p><b>Application Deadline: 04.06.2021<br>
 Dates of the Conference: 05.-08.09.2021</b> (exact date of the workshop is not set yet)</p>
 
 If in doubt, don't hesitate to [reach out to us](/aips/contact.html).

@@ -17,7 +17,7 @@ participant. You might also be interested in our original [workshop
 proposal](/aips/assets/proposal.pdf) to learn more about the workshop
 motivation.
 
-<p>Application Deadline: 21.05.2021<br>
+<p>Application Deadline: 04.06.2021<br>
 Feedback: early/mid June<br>
 Deadline for reviewed abstracts (contributors only): 02.07.2021<br>
 Conference: 05.-08.09.2021 (exact day of the workshop is not set yet)</p>
