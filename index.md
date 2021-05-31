@@ -14,7 +14,12 @@ href="https://muc2021.mensch-und-computer.de">Mensch und Computer</a> workshop
 on Interaction in the Public: Aesthetics, Social Acceptability, and Social
 Context. We want to bring together HCI researchers and UX practitioners to
 discuss the role of "the social" in current design approaches, and to develop
-new directions for the future.
+new directions for the future. In addition, we are happy to announce that <a
+target="_blank" rel="noopener noreferrer"
+href="http://juliericowilliamson.com">Dr.  Julie R Williamson</a> from
+University of Glasgow will join us as our invited guest speaker.  She has
+published several impactful papers on technology interactions in public spaces
+and we are looking forward to her talk at our workshop!
 
 ![Interaction in the Public](/assets/AIPS.webp)
 
@@ -30,8 +35,7 @@ for participation](/aips/participate.html)). If you already have some
 experience designing or researching technology for social contexts, we would
 like to hear what you have to share. As a novice, you can bring your questions
 or use cases, or just get inspired by others' projects. In addition, we share
-some of our own work and thoughts. To round off the workshop, we are currently
-reaching out to an external **keynote** speaker (to be announced).
+some of our own work and thoughts.
 
 We are preparing for both an online and an in person scenario of the workshop
 and we will keep you informed as soon as we know more. Here are some key
