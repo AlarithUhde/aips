@@ -23,26 +23,25 @@ and we are looking forward to her talk at our workshop!
 
 ![Interaction in the Public](/assets/AIPS.webp)
 
-The topics we would like to talk about include:
+The topics we would like discuss include:
 * How does interaction design shape social experiences?
 * More generally, how do social contexts shape user experiences?
 * What potentials for positive experiences can we find in the social world?
 * How can we include social context in design processes to create better
   things?
 
-We invite both experts and novices to join us and learn together (see the [call
-for participation](/aips/participate.html)). If you already have some
-experience designing or researching technology for social contexts, we would
-like to hear what you have to share. As a novice, you can bring your questions
-or use cases, or just get inspired by others' projects. In addition, we share
-some of our own work and thoughts.
+We have already received several interesting contributions that cover an wide
+range of social contexts. Although the contributor slots are full, you can still
+join us as a regular participant and take part in our interactive session. Both
+experts and novices are welcome to join us and learn together (see the [call for
+participation](/aips/participate.html)).
 
-We are preparing for both an online and an in person scenario of the workshop
-and we will keep you informed as soon as we know more. Here are some key
-information we already know:
+The Covid situation is improving quickly in Germany, but there are still some
+uncertainties that we have no control of. We are preparing for both an online
+and an in person scenario of the workshop and we will keep you informed as soon
+as we know more. Here are some key information we already know:
 
-<p><b>Application Deadline: 04.06.2021<br>
-Dates of the Conference: 05.-08.09.2021</b> (exact date of the workshop is not set yet)</p>
+<p><b>Dates of the Conference: 05.-08.09.2021</b> (exact date of the workshop is not set yet)</p>
 
 If in doubt, don't hesitate to [reach out to us](/aips/contact.html).
 

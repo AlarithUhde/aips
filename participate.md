@@ -12,46 +12,17 @@ title: Participate
 
 ## General Information
 
-We offer two different ways to participate: As a contributor or as a regular
-participant. You might also be interested in our original [workshop
-proposal](/aips/assets/proposal.pdf) to learn more about the workshop
-motivation.
+We still welcome applications for regular participation, but our contributor
+slots are full.
 
-<p>Application Deadline: 04.06.2021<br>
-Feedback: early/mid June<br>
+<p>Original Application Deadline: 04.06.2021<br>
+Feedback: mid June or shortly after your submission<br>
 Deadline for reviewed abstracts (contributors only): 02.07.2021<br>
 Conference: 05.-08.09.2021 (exact day of the workshop is not set yet)</p>
 
 Please fill out the [application form](/aips/assets/ApplicationForm.docx) and
 the [case sheet](/aips/assets/CaseSheet.docx) and send them by email to
 [alarith.uhde@uni-siegen.de](mailto:alarith.uhde@uni-siegen.de).
-
-### Contributors
-
->"I have some experiences with social contexts and technologies that I want to
->share!"
-
-As a contributor, you will have time to present and discuss your experiences
-during the workshop. Contributions can include (but are not limited to):
-
-* (preliminary) results of your research about social contexts / social
-  acceptability
-* experiences and lessons learned from designing for social contexts
-* methods and design approaches for public settings
-* summarizing perspectives about previous work in the social space, or
-  developments in research and practice over time
-* aesthetics of social interaction
-
-These are our suggestions - if you have an idea that you think fits with the
-general theme of the workshop, submit it or [reach out to
-us](/aips/contact.html).
-
-#### How to apply
-
-Please fill out the [form](/aips/assets/ApplicationForm.docx) and include
-a (textual) summary of your presentation (1-2 pages). In addition, we ask you
-to include a [case sheet](/aips/assets/CaseSheet.docx) for the interactive
-session.
 
 ### Participants
 
