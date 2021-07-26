@@ -23,7 +23,7 @@ and we are looking forward to her talk at our workshop!
 
 ![Interaction in the Public](/assets/AIPS.webp)
 
-The topics we would like discuss include:
+The topics we would like to discuss include:
 * How does interaction design shape social experiences?
 * More generally, how do social contexts shape user experiences?
 * What potentials for positive experiences can we find in the social world?
