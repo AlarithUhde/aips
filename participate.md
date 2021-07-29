@@ -18,7 +18,7 @@ slots are full.
 <p>Original Application Deadline: 04.06.2021<br>
 Feedback: mid June or shortly after your submission<br>
 Deadline for reviewed abstracts (contributors only): 02.07.2021<br>
-Conference: 05.-08.09.2021 (exact day of the workshop is not set yet)</p>
+Workshop: 05.09.2021 11:00-15:00 CEST</p>
 
 Please fill out the [application form](/aips/assets/ApplicationForm.docx) and
 the [case sheet](/aips/assets/CaseSheet.docx) and send them by email to

@@ -36,12 +36,12 @@ join us as a regular participant and take part in our interactive session. Both
 experts and novices are welcome to join us and learn together (see the [call for
 participation](/aips/participate.html)).
 
-The Covid situation is improving quickly in Germany, but there are still some
-uncertainties that we have no control of. We are preparing for both an online
-and an in person scenario of the workshop and we will keep you informed as soon
-as we know more. Here are some key information we already know:
+The Covid situation is still quite unpredictable in Germany. We have considered
+several options for the workshop, but finally we decided to run this workshop
+completely online. This allows everyone to participate at minimal health risks.
+It also allows us to continue planning and to set a date for the workshop:
 
-<p><b>Dates of the Conference: 05.-08.09.2021</b> (exact date of the workshop is not set yet)</p>
+<p><b>Date of the Workshop: 05.09.2021, 11:00-15:00 CEST</b></p>
 
 If in doubt, don't hesitate to [reach out to us](/aips/contact.html).
 
