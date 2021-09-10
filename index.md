@@ -34,7 +34,8 @@ We have already received several interesting contributions that cover an wide
 range of social contexts. Although the contributor slots are full, you can still
 join us as a regular participant and take part in our interactive session. Both
 experts and novices are welcome to join us and learn together (see the [call for
-participation](/aips/participate.html)).
+participation](/aips/participate.html) and the [workshop
+proposal](https://alarithuhde.com/publications/Workshop-Interaction-in-the-Public.pdf)).
 
 The Covid situation is still quite unpredictable in Germany. We have considered
 several options for the workshop, but finally we decided to run this workshop
